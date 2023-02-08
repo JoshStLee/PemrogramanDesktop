@@ -1,0 +1,17 @@
+D:\Demo\Konversi Suhu\Konversi_Suhu_2\bin\Debug\net6.0-windows\Konversi_Suhu_2.exe
+D:\Demo\Konversi Suhu\Konversi_Suhu_2\bin\Debug\net6.0-windows\Konversi_Suhu_2.deps.json
+D:\Demo\Konversi Suhu\Konversi_Suhu_2\bin\Debug\net6.0-windows\Konversi_Suhu_2.runtimeconfig.json
+D:\Demo\Konversi Suhu\Konversi_Suhu_2\bin\Debug\net6.0-windows\Konversi_Suhu_2.dll
+D:\Demo\Konversi Suhu\Konversi_Suhu_2\bin\Debug\net6.0-windows\Konversi_Suhu_2.pdb
+D:\Demo\Konversi Suhu\Konversi_Suhu_2\obj\Debug\net6.0-windows\Konversi_Suhu_2.vbproj.AssemblyReference.cache
+D:\Demo\Konversi Suhu\Konversi_Suhu_2\obj\Debug\net6.0-windows\Konversi_Suhu_2.Form1.resources
+D:\Demo\Konversi Suhu\Konversi_Suhu_2\obj\Debug\net6.0-windows\Konversi_Suhu_2.vbproj.GenerateResource.cache
+D:\Demo\Konversi Suhu\Konversi_Suhu_2\obj\Debug\net6.0-windows\Konversi_Suhu_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Demo\Konversi Suhu\Konversi_Suhu_2\obj\Debug\net6.0-windows\Konversi_Suhu_2.AssemblyInfoInputs.cache
+D:\Demo\Konversi Suhu\Konversi_Suhu_2\obj\Debug\net6.0-windows\Konversi_Suhu_2.AssemblyInfo.vb
+D:\Demo\Konversi Suhu\Konversi_Suhu_2\obj\Debug\net6.0-windows\Konversi_Suhu_2.vbproj.CoreCompileInputs.cache
+D:\Demo\Konversi Suhu\Konversi_Suhu_2\obj\Debug\net6.0-windows\Konversi_Suhu_2.dll
+D:\Demo\Konversi Suhu\Konversi_Suhu_2\obj\Debug\net6.0-windows\refint\Konversi_Suhu_2.dll
+D:\Demo\Konversi Suhu\Konversi_Suhu_2\obj\Debug\net6.0-windows\Konversi_Suhu_2.pdb
+D:\Demo\Konversi Suhu\Konversi_Suhu_2\obj\Debug\net6.0-windows\Konversi_Suhu_2.genruntimeconfig.cache
+D:\Demo\Konversi Suhu\Konversi_Suhu_2\obj\Debug\net6.0-windows\ref\Konversi_Suhu_2.dll
