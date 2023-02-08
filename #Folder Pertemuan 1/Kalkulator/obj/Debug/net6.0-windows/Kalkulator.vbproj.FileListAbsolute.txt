@@ -1,0 +1,17 @@
+D:\Demo\Konversi Suhu\Kalkulator\bin\Debug\net6.0-windows\Kalkulator.exe
+D:\Demo\Konversi Suhu\Kalkulator\bin\Debug\net6.0-windows\Kalkulator.deps.json
+D:\Demo\Konversi Suhu\Kalkulator\bin\Debug\net6.0-windows\Kalkulator.runtimeconfig.json
+D:\Demo\Konversi Suhu\Kalkulator\bin\Debug\net6.0-windows\Kalkulator.dll
+D:\Demo\Konversi Suhu\Kalkulator\bin\Debug\net6.0-windows\Kalkulator.pdb
+D:\Demo\Konversi Suhu\Kalkulator\obj\Debug\net6.0-windows\Kalkulator.vbproj.AssemblyReference.cache
+D:\Demo\Konversi Suhu\Kalkulator\obj\Debug\net6.0-windows\Kalkulator.Form1.resources
+D:\Demo\Konversi Suhu\Kalkulator\obj\Debug\net6.0-windows\Kalkulator.vbproj.GenerateResource.cache
+D:\Demo\Konversi Suhu\Kalkulator\obj\Debug\net6.0-windows\Kalkulator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Demo\Konversi Suhu\Kalkulator\obj\Debug\net6.0-windows\Kalkulator.AssemblyInfoInputs.cache
+D:\Demo\Konversi Suhu\Kalkulator\obj\Debug\net6.0-windows\Kalkulator.AssemblyInfo.vb
+D:\Demo\Konversi Suhu\Kalkulator\obj\Debug\net6.0-windows\Kalkulator.vbproj.CoreCompileInputs.cache
+D:\Demo\Konversi Suhu\Kalkulator\obj\Debug\net6.0-windows\Kalkulator.dll
+D:\Demo\Konversi Suhu\Kalkulator\obj\Debug\net6.0-windows\refint\Kalkulator.dll
+D:\Demo\Konversi Suhu\Kalkulator\obj\Debug\net6.0-windows\Kalkulator.pdb
+D:\Demo\Konversi Suhu\Kalkulator\obj\Debug\net6.0-windows\Kalkulator.genruntimeconfig.cache
+D:\Demo\Konversi Suhu\Kalkulator\obj\Debug\net6.0-windows\ref\Kalkulator.dll
