@@ -1,0 +1,36 @@
+D:\Demo\Wallpaper Changer\WallpaperChanger\bin\Debug\net6.0-windows\WallpaperChanger.exe
+D:\Demo\Wallpaper Changer\WallpaperChanger\bin\Debug\net6.0-windows\WallpaperChanger.deps.json
+D:\Demo\Wallpaper Changer\WallpaperChanger\bin\Debug\net6.0-windows\WallpaperChanger.runtimeconfig.json
+D:\Demo\Wallpaper Changer\WallpaperChanger\bin\Debug\net6.0-windows\WallpaperChanger.dll
+D:\Demo\Wallpaper Changer\WallpaperChanger\bin\Debug\net6.0-windows\WallpaperChanger.pdb
+D:\Demo\Wallpaper Changer\WallpaperChanger\obj\Debug\net6.0-windows\WallpaperChanger.vbproj.AssemblyReference.cache
+D:\Demo\Wallpaper Changer\WallpaperChanger\obj\Debug\net6.0-windows\WallpaperChanger.Form1.resources
+D:\Demo\Wallpaper Changer\WallpaperChanger\obj\Debug\net6.0-windows\WallpaperChanger.Resources.resources
+D:\Demo\Wallpaper Changer\WallpaperChanger\obj\Debug\net6.0-windows\WallpaperChanger.vbproj.GenerateResource.cache
+D:\Demo\Wallpaper Changer\WallpaperChanger\obj\Debug\net6.0-windows\WallpaperChanger.GeneratedMSBuildEditorConfig.editorconfig
+D:\Demo\Wallpaper Changer\WallpaperChanger\obj\Debug\net6.0-windows\WallpaperChanger.AssemblyInfoInputs.cache
+D:\Demo\Wallpaper Changer\WallpaperChanger\obj\Debug\net6.0-windows\WallpaperChanger.AssemblyInfo.vb
+D:\Demo\Wallpaper Changer\WallpaperChanger\obj\Debug\net6.0-windows\WallpaperChanger.vbproj.CoreCompileInputs.cache
+D:\Demo\Wallpaper Changer\WallpaperChanger\obj\Debug\net6.0-windows\WallpaperChanger.dll
+D:\Demo\Wallpaper Changer\WallpaperChanger\obj\Debug\net6.0-windows\refint\WallpaperChanger.dll
+D:\Demo\Wallpaper Changer\WallpaperChanger\obj\Debug\net6.0-windows\WallpaperChanger.pdb
+D:\Demo\Wallpaper Changer\WallpaperChanger\obj\Debug\net6.0-windows\WallpaperChanger.genruntimeconfig.cache
+D:\Demo\Wallpaper Changer\WallpaperChanger\obj\Debug\net6.0-windows\ref\WallpaperChanger.dll
+D:\Demo\# Folder Pertemuan 2\Wallpaper Changer\WallpaperChanger\bin\Debug\net6.0-windows\WallpaperChanger.exe
+D:\Demo\# Folder Pertemuan 2\Wallpaper Changer\WallpaperChanger\bin\Debug\net6.0-windows\WallpaperChanger.deps.json
+D:\Demo\# Folder Pertemuan 2\Wallpaper Changer\WallpaperChanger\bin\Debug\net6.0-windows\WallpaperChanger.runtimeconfig.json
+D:\Demo\# Folder Pertemuan 2\Wallpaper Changer\WallpaperChanger\bin\Debug\net6.0-windows\WallpaperChanger.dll
+D:\Demo\# Folder Pertemuan 2\Wallpaper Changer\WallpaperChanger\bin\Debug\net6.0-windows\WallpaperChanger.pdb
+D:\Demo\# Folder Pertemuan 2\Wallpaper Changer\WallpaperChanger\obj\Debug\net6.0-windows\WallpaperChanger.vbproj.AssemblyReference.cache
+D:\Demo\# Folder Pertemuan 2\Wallpaper Changer\WallpaperChanger\obj\Debug\net6.0-windows\WallpaperChanger.Form1.resources
+D:\Demo\# Folder Pertemuan 2\Wallpaper Changer\WallpaperChanger\obj\Debug\net6.0-windows\WallpaperChanger.Resources.resources
+D:\Demo\# Folder Pertemuan 2\Wallpaper Changer\WallpaperChanger\obj\Debug\net6.0-windows\WallpaperChanger.vbproj.GenerateResource.cache
+D:\Demo\# Folder Pertemuan 2\Wallpaper Changer\WallpaperChanger\obj\Debug\net6.0-windows\WallpaperChanger.GeneratedMSBuildEditorConfig.editorconfig
+D:\Demo\# Folder Pertemuan 2\Wallpaper Changer\WallpaperChanger\obj\Debug\net6.0-windows\WallpaperChanger.AssemblyInfoInputs.cache
+D:\Demo\# Folder Pertemuan 2\Wallpaper Changer\WallpaperChanger\obj\Debug\net6.0-windows\WallpaperChanger.AssemblyInfo.vb
+D:\Demo\# Folder Pertemuan 2\Wallpaper Changer\WallpaperChanger\obj\Debug\net6.0-windows\WallpaperChanger.vbproj.CoreCompileInputs.cache
+D:\Demo\# Folder Pertemuan 2\Wallpaper Changer\WallpaperChanger\obj\Debug\net6.0-windows\WallpaperChanger.dll
+D:\Demo\# Folder Pertemuan 2\Wallpaper Changer\WallpaperChanger\obj\Debug\net6.0-windows\refint\WallpaperChanger.dll
+D:\Demo\# Folder Pertemuan 2\Wallpaper Changer\WallpaperChanger\obj\Debug\net6.0-windows\WallpaperChanger.pdb
+D:\Demo\# Folder Pertemuan 2\Wallpaper Changer\WallpaperChanger\obj\Debug\net6.0-windows\WallpaperChanger.genruntimeconfig.cache
+D:\Demo\# Folder Pertemuan 2\Wallpaper Changer\WallpaperChanger\obj\Debug\net6.0-windows\ref\WallpaperChanger.dll
