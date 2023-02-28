@@ -1,0 +1,15 @@
+D:\Demo\# Folder Pertemuan 4\Image Viewer\ImageViewer\bin\Debug\ImageViewer.exe.config
+D:\Demo\# Folder Pertemuan 4\Image Viewer\ImageViewer\bin\Debug\ImageViewer.exe
+D:\Demo\# Folder Pertemuan 4\Image Viewer\ImageViewer\bin\Debug\ImageViewer.pdb
+D:\Demo\# Folder Pertemuan 4\Image Viewer\ImageViewer\bin\Debug\ImageViewer.xml
+D:\Demo\# Folder Pertemuan 4\Image Viewer\ImageViewer\obj\Debug\ImageViewer.vbproj.AssemblyReference.cache
+D:\Demo\# Folder Pertemuan 4\Image Viewer\ImageViewer\obj\Debug\ImageViewer.vbproj.SuggestedBindingRedirects.cache
+D:\Demo\# Folder Pertemuan 4\Image Viewer\ImageViewer\obj\Debug\ImageViewer.Form1.resources
+D:\Demo\# Folder Pertemuan 4\Image Viewer\ImageViewer\obj\Debug\ImageViewer.Resources.resources
+D:\Demo\# Folder Pertemuan 4\Image Viewer\ImageViewer\obj\Debug\ImageViewer.vbproj.GenerateResource.cache
+D:\Demo\# Folder Pertemuan 4\Image Viewer\ImageViewer\obj\Debug\ImageViewer.vbproj.CoreCompileInputs.cache
+D:\Demo\# Folder Pertemuan 4\Image Viewer\ImageViewer\obj\Debug\ImageViewer.exe
+D:\Demo\# Folder Pertemuan 4\Image Viewer\ImageViewer\obj\Debug\ImageViewer.xml
+D:\Demo\# Folder Pertemuan 4\Image Viewer\ImageViewer\obj\Debug\ImageViewer.pdb
+D:\Demo\# Folder Pertemuan 4\Image Viewer\ImageViewer\bin\Debug\gma.Drawing.ImageInfo.dll
+D:\Demo\# Folder Pertemuan 4\Image Viewer\ImageViewer\obj\Debug\ImageViewer.vbproj.CopyComplete
